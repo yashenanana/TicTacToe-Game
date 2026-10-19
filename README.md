@@ -45,3 +45,5 @@ yarn install
 ### View History
 <img width="1255" height="825" alt="Screenshot 2026-10-19 112430" src="https://github.com/user-attachments/assets/8c4fe953-d2f3-4320-9612-d9526770c399" />
 
+## Author
+Developed by Yashena Thiagaraja
