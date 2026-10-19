@@ -20,6 +20,16 @@ tutorial with additional features and functionalities.
 - Database: H2 Server
 
 ## Setup
-
+Run: 
+```
+cd frontend
+yarn install
+```
 
 ## Usage
+### Gameplay
+<img width="493" height="808" alt="Screenshot 2026-10-19 114910" src="https://github.com/user-attachments/assets/0f478c96-372e-44f6-bd2d-9abe2de50f46" />
+
+### View History
+<img width="1255" height="825" alt="Screenshot 2026-10-19 112430" src="https://github.com/user-attachments/assets/8c4fe953-d2f3-4320-9612-d9526770c399" />
+
