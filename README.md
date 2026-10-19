@@ -28,6 +28,7 @@ tutorial with additional features and functionalities.
   - Custom exception class
   - DTO objects for communication with frontend
   - Repository class for communication with server
+  - Javadocs for documentation
 - Database: H2 Server
 
 ## Setup
