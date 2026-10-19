@@ -15,8 +15,19 @@ tutorial with additional features and functionalities.
   - Allows players to permanently delete previous games
 
 ## Structure & Technologies
-- Frontend: React, MUI
-- Backend: Spring Boot, Axios
+- Frontend:
+  - React
+  - Axios for API calls to communicate with backend 
+  - Zustand store for state management
+  - MUI for standardized and simplified UI elements
+
+- Backend:
+  - Spring Boot
+  - Log4j for logging purposes
+  - Controller-Service-Model structure
+  - Custom exception class
+  - DTO objects for communication with frontend
+  - Repository class for communication with server
 - Database: H2 Server
 
 ## Setup
