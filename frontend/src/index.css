@@ -1,0 +1,56 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: sans-serif;
+  margin: 20px;
+  padding: 0;
+}
+
+.square {
+  background: #f5dbbb;
+  border: 1px solid #bbd5f5;
+  border-radius: 5px;
+  float: left;
+  color: saddlebrown;
+  font-weight: bold;
+  line-height: 74px;
+  height: 74px;
+  margin-right: -1px;
+  margin-top: -1px;
+  padding: 0;
+  text-align: center;
+  width: 74px;
+}
+
+ul {
+  list-style-type: none;
+  padding: 8px;
+
+  li {
+    margin-bottom: 5px; /* Adds space between list items */
+  }
+}
+
+.board-row {
+  clear: both;
+  content: '';
+  display: table;
+}
+
+.status{
+  border-radius: 5px;
+  float: left;
+  font-size: 36px;
+  color: saddlebrown;
+  font-weight: bold;
+  line-height: 74px;
+  height: 74px;
+  margin-right: -1px;
+  margin-top: -1px;
+  padding: 0;
+  text-align: center;
+  width: auto;
+}
+
